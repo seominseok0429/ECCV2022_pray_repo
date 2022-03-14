@@ -6,3 +6,6 @@
 03.07 : active learning, change detection 제출 완료 // DA related work 수정. 
 
 03.08 : 논문 2개 제출 및, CVPR 워크숍 준비, 특허 출원
+
+03.14 : BMTT2022 첼린지 참가.
+
