@@ -12,3 +12,5 @@
 03.15 : CVPRW 작성 완료
 
 03.18 : 데이터셋 구축 완료, 훈련코드 
+
+03.22 : SOTA object tracking code 훈련 및 수정 완료
