@@ -16,3 +16,5 @@
 03.22 : SOTA object tracking code 훈련 및 수정 완료
 
 03.24 : 발표자료 만들 
+
+03.25 : SOTA 달성.
